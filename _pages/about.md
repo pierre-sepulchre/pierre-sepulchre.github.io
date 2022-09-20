@@ -19,12 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Pierre is a multidisciplinary scientist, exploring the links between climate change and biodiversity over long time scales through numerical modelling. Pierre holds a MSc in agronomy engineering (AgroParisTech) and a MSc in paleontology (University of Montpellier). After working at reconstructing past environments of Southeast Asia, Pierre completed a PhD in modelling past climates of Africa at the Laboratoire des Sciences du Climat et de l’Environnement (Institut Pierre-Simon-Laplace) and the University of Poitiers. After a two-year postdoc in the climate modelling group at UC Santa Cruz, Pierre was hired in 2009 as a full-time researcher at CNRS. His current project aims at understanding the links between paleogeography, climate changes and biodiversity through time, his core tool being numerical climate models. Recently, he expanded his activity towards history and sociological sciences, exploring the changes in the structuration of research in his own laboratory in the context of global climate change.
+Pierre is a multidisciplinary scientist, exploring the links between climate change and biodiversity over long time scales through numerical modelling. Pierre holds a MSc in agronomy engineering (AgroParisTech) and a MSc in paleontology (University of Montpellier). After working at reconstructing past environments of Southeast Asia, he completed a PhD in modelling past climates of Africa at the Laboratoire des Sciences du Climat et de l’Environnement (Institut Pierre-Simon-Laplace) and the University of Poitiers. 
 
+After a two-year postdoc in the climate modelling group at UC Santa Cruz, Pierre was hired in 2010 as a full-time researcher at CNRS. His current project aims at understanding the links between paleogeography, climate changes and biodiversity through time, his core tool being numerical climate models.
 
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is #already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Pierre is co-head of the climate modelling team (CLIM) at LSCE, and responsable for the French paleoclimate modelling computing project, operating 50+ millions hours on French supercomputers. 
 
-#Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML #header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons]
-#(https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recently, he expanded his activity towards history and sociological sciences, exploring the changes in the structuration of research in his own laboratory in the context of global climate change.
