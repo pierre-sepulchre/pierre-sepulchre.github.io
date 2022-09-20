@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: CNRS Researcher
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: CNRS Researcher @ UMR 8212 LSCE (Saclay, France)
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
