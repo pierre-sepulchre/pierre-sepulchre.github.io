@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+description: CNRS Researcher
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
