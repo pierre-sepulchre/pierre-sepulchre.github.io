@@ -230,8 +230,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Sepulchre
+  first_name: [Pierre, P.]
 
   style: apa
   locale: en
