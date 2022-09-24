@@ -92,7 +92,7 @@ unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
-
+strava_id: 10372710 #strava id for fun
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
