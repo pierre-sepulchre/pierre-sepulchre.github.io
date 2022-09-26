@@ -19,10 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Pierre is a multidisciplinary scientist, exploring the links between climate change and biodiversity over long time scales through numerical modelling. Pierre holds a MSc in agronomy engineering (AgroParisTech) and a MSc in paleontology (University of Montpellier). After working at reconstructing past environments of Southeast Asia, he completed a PhD in modelling past climates of Africa at the Laboratoire des Sciences du Climat et de l’Environnement (Institut Pierre-Simon-Laplace) and the University of Poitiers. 
+I am a multidisciplinary scientist, exploring the links between climate changes and biodiversity over long time scales through numerical modelling. After working at reconstructing past environments of Southeast Asia, I completed a PhD in modelling past climates of Africa at the Laboratoire des Sciences du Climat et de l’Environnement (Institut Pierre-Simon-Laplace, IPSL) and the University of Poitiers. 
 
-After a two-year postdoc in the climate modelling group at UC Santa Cruz, Pierre was hired in 2010 as a full-time researcher at CNRS. His current project aims at understanding the links between paleogeography, climate changes and biodiversity through time, his core tool being numerical climate models.
+After a two-year postdoc in the climate modelling group at UC Santa Cruz, I was hired in 2010 as a full-time researcher at CNRS. My current project aims at understanding the links between paleogeography, climate changes and biodiversity through time, my core tool being the Earth System Model from IPSL.
 
-Pierre is co-head of the climate modelling team (CLIM) at LSCE, and responsable for the French paleoclimate modelling computing project, operating 50+ millions hours on French supercomputers. 
-
-Recently, he expanded his activity towards history and sociological sciences, exploring the changes in the structuration of research in his own laboratory in the context of global climate change.
+I am a member of the <a href="https://paleoclim-cnrs.github.io/" target="_blank" >French Deep-Time Paleoclimate Modeling Group</a>, and co-head of the <a href="https://www.lsce.ipsl.fr/en/Phocea/Vie_des_labos/Ast/ast_groupe.php?id_groupe=82" target="_blank" >climate modelling team at LSCE</a>. I am also in charge of the French paleoclimate modelling computing project, operating 50+ millions hours on French supercomputers through <a href="https://www.genci.fr/en" target="_blank">GENCI</a>. 
