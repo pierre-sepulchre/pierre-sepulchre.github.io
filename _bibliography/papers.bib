@@ -552,6 +552,20 @@ simulations describing the end-members of eccentricity, obliquity, and precessio
 @article{sepulchre:hal-02893945,
   TITLE = {{IPSL-CM5A2 -- an Earth system model designed for multi-millennial climate simulations}},
   AUTHOR = {Sepulchre, Pierre and Caubel, Arnaud and Ladant, Jean-Baptiste and Bopp, Laurent and Boucher, Olivier and Braconnot, Pascale and Brockmann, Patrick and Cozic, Anne and Donnadieu, Yannick and Dufresne, Jean-Louis and Estella-Perez, Victor and {\'E}th{\'e}, Christian and Fluteau, Fr{\'e}d{\'e}ric and Foujols, Marie-Alice and GASTINEAU, GUILLAUME and Ghattas, Josefine and Hauglustaine, Didier and Hourdin, Fr{\'e}d{\'e}ric and Kageyama, Masa and Khodri, Myriam and Marti, Olivier and Meurdesoif, Yann and Mignot, Juliette and Sarr, Anta-Clarisse and Servonnat, J{\'e}r{\^o}me and Swingedouw, Didier and Laval-Szopa, Sophie and Tardif, Delphine},
+  abstract = {Based on the fifth phase of the Coupled Model Intercomparison Project (CMIP5)-generation previous Institut Pierre Simon Laplace (IPSL) Earth system model, 
+  we designed a new version, IPSL-CM5A2, aiming at running multi-millennial simulations typical of deep-time paleoclimate studies. 
+  Three priorities were followed during the setup of the model: (1) improving the overall model computing performance, (2) overcoming a persistent cold bias depicted 
+  in the previous model generation and (3) making the model able to handle the specific continental configurations of the geological past. 
+  These developments include the integration of hybrid parallelization Message Passing Interface – Open Multi-Processing (MPI-OpenMP) in the atmospheric model of 
+  the Laboratoire de Météorologie Dynamique (LMDZ), the use of a new library to perform parallel asynchronous input/output by using computing cores as “I/O servers” 
+  and the use of a parallel coupling library between the ocean and the atmospheric components. The model, which runs with an atmospheric resolution of 3.75∘×1.875∘ 
+  and 2 to 0.5∘ in the ocean, can now simulate ∼100 years per day, opening new possibilities towards the production of multi-millennial simulations with a full 
+  Earth system model. The tuning strategy employed to overcome a persistent cold bias is detailed. The confrontation of a historical simulation to climatological 
+  observations shows overall improved ocean meridional overturning circulation, marine productivity and latitudinal position of zonal wind patterns. We also present 
+  the numerous steps required to run IPSL-CM5A2 for deep-time paleoclimates through a preliminary case study for the Cretaceous. Namely, specific work on the ocean model
+  grid was required to run the model for specific continental configurations in which continents are relocated according to past paleogeographic reconstructions. 
+  By briefly discussing the spin-up of such a simulation, we elaborate on the requirements and challenges awaiting paleoclimate modeling in the next years, namely 
+  finding the best trade-off between the level of description of the processes and the computing cost on supercomputers.},
   html = {https://hal.archives-ouvertes.fr/hal-02893945},
   JOURNAL = {{Geoscientific Model Development}},
   PUBLISHER = {{European Geosciences Union}},
